@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @DARKCRIME1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hiruwa&show_icons=true&locale=en&layout=compact&theme=radical" alt="Hiruwa" /></p>
 
-<!---
-DARKCRIME1/DARKCRIME1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hiruwa&theme=radical" alt="Hiruwa" /></p>
+ 
+ <br />
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
